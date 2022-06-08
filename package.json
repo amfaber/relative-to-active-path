@@ -3,6 +3,7 @@
 	"displayName": "Relative to active path",
 	"description": "Add a context menu item to copy path relative to active file instead of to project root",
 	"version": "0.0.1",
+	"repository": "https://github.com/amfaber/relative-to-active-path",
 	"engines": {
 		"vscode": "^1.67.0"
 	},
